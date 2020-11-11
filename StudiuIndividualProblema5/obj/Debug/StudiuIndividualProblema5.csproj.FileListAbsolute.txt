@@ -1,0 +1,6 @@
+E:\4. Other\Visual Studio Projects\StudiuIndividualProblema5\StudiuIndividualProblema5\bin\Debug\StudiuIndividualProblema5.exe.config
+E:\4. Other\Visual Studio Projects\StudiuIndividualProblema5\StudiuIndividualProblema5\bin\Debug\StudiuIndividualProblema5.exe
+E:\4. Other\Visual Studio Projects\StudiuIndividualProblema5\StudiuIndividualProblema5\bin\Debug\StudiuIndividualProblema5.pdb
+E:\4. Other\Visual Studio Projects\StudiuIndividualProblema5\StudiuIndividualProblema5\obj\Debug\StudiuIndividualProblema5.csprojAssemblyReference.cache
+E:\4. Other\Visual Studio Projects\StudiuIndividualProblema5\StudiuIndividualProblema5\obj\Debug\StudiuIndividualProblema5.exe
+E:\4. Other\Visual Studio Projects\StudiuIndividualProblema5\StudiuIndividualProblema5\obj\Debug\StudiuIndividualProblema5.pdb
